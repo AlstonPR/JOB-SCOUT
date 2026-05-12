@@ -53,14 +53,6 @@ This repository provides source code and resources for a skill tailored for the 
 
 Integrate this skill with your OpenClaw instance by registering the skill and configuring required environment variables/settings per the OpenClaw docs.
 
-## Contributing
-
-Contributions are welcome! Please open issues or submit pull requests for bug fixes, enhancements, or new features.
-
-## License
-
-[MIT](LICENSE)
-
 ---
 
 **Language composition:**
